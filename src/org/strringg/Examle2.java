@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	
 	
 	StringBuffer s3=new StringBuffer("hai");
-	StringBuffer s4=new StringBuffer("helo");
+	StringBuffer s4=new StringBuffer("helolllllo");
 	StringBuffer app=s3.append(s4);
 	
 	System.out.println(System.identityHashCode(s3));
